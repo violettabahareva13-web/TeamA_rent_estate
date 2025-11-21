@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   # Основные используемые пакеты (упрощенные спецификации)
-  - python=3.13
+  - python=3.12
   - streamlit
   - pandas
   - numpy
