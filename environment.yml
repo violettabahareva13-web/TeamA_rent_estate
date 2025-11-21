@@ -5,6 +5,7 @@ channels:
   - https://repo.anaconda.com/pkgs/r
   - conda-forge
 dependencies:
+  - joblib
   - altair=5.5.0=py313hca03da5_0
   - aom=3.12.1=ha237518_0
   - arrow-cpp=21.0.0=h9e9184e_1
